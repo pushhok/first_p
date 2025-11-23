@@ -3,3 +3,4 @@
 Этот репозиторий является каркасом для будущего веб-приложения.
 ## Ссылки
 - [Публичная страница на GitHub Pages](https://github.com/pushhok/first_p)
+https://pushhok.github.io/first_p/
